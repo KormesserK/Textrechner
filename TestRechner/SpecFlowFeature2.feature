@@ -5,14 +5,14 @@
 
 @mytag
 Scenario: CalcSin
-	Given the number is PI
+	Given the number is PI1
 	Then sin is 0
 
 Scenario: CalcCos
-	Given the number is PI
+	Given the number is PI2
 	Then Cos is -1
 
 Scenario: CalcTan
-	Given the number is PI
+	Given the number is PI3
 	Then tan is 0
 

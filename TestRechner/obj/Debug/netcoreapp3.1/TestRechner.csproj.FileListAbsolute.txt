@@ -101,3 +101,7 @@ C:\Users\Korme\source\repos\TestRechner\TestRechner\bin\Debug\netcoreapp3.1\Syst
 C:\Users\Korme\source\repos\TestRechner\TestRechner\bin\Debug\netcoreapp3.1\Utf8Json.dll
 C:\Users\Korme\source\repos\TestRechner\TestRechner\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Korme\source\repos\TestRechner\TestRechner\obj\Debug\netcoreapp3.1\TestRechner.csproj.CoreCompileInputs.cache
+C:\Users\Korme\source\repos\TestRechner\Textrechner\TestRechner\obj\Debug\netcoreapp3.1\TestRechner.csprojAssemblyReference.cache
+C:\Users\Korme\source\repos\TestRechner\Textrechner\TestRechner\obj\Debug\netcoreapp3.1\TestRechner.csproj.CoreCompileInputs.cache
+C:\Users\Korme\source\repos\TestRechner\Textrechner\TestRechner\obj\Debug\netcoreapp3.1\TestRechner.AssemblyInfoInputs.cache
+C:\Users\Korme\source\repos\TestRechner\Textrechner\TestRechner\obj\Debug\netcoreapp3.1\TestRechner.AssemblyInfo.cs

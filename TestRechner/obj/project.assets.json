@@ -6340,11 +6340,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Korme\\source\\repos\\TestRechner\\TestRechner\\TestRechner.csproj",
+      "projectUniqueName": "C:\\Users\\Korme\\source\\repos\\TestRechner\\Textrechner\\TestRechner\\TestRechner.csproj",
       "projectName": "TestRechner",
-      "projectPath": "C:\\Users\\Korme\\source\\repos\\TestRechner\\TestRechner\\TestRechner.csproj",
+      "projectPath": "C:\\Users\\Korme\\source\\repos\\TestRechner\\Textrechner\\TestRechner\\TestRechner.csproj",
       "packagesPath": "C:\\Users\\Korme\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Korme\\source\\repos\\TestRechner\\TestRechner\\obj\\",
+      "outputPath": "C:\\Users\\Korme\\source\\repos\\TestRechner\\Textrechner\\TestRechner\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3rIC/QqSQc57GWR3EYGkqkcbzJpm0DBQgI5LmmyfcEW1x7nR5l444QuyFGp/UO8MCL3/vbn3zq2qW1zBdxgd0g==",
+  "dgSpecHash": "IngJpRHWHULrxoKzkUslIbKMbKlxgFhPKjFMgvAE4ECoSzJGHh1ZChuaT9b110j3dDg6jEFb+mQlOkskfLbGgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Korme\\source\\repos\\TestRechner\\TestRechner\\TestRechner.csproj",
+  "projectFilePath": "C:\\Users\\Korme\\source\\repos\\TestRechner\\Textrechner\\TestRechner\\TestRechner.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Korme\\.nuget\\packages\\bodi\\1.4.1\\bodi.1.4.1.nupkg.sha512",
     "C:\\Users\\Korme\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
